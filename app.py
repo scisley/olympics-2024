@@ -23,7 +23,6 @@ def get_data(size):
         return [country for country in countries if 75 <= country["total"] <= 600]
     else:
         return [country for country in countries if country["total"] < 75]
-get_data.clear()
 
 st.title('2024 Olympic Country Chooser Tool, Thing, App, wait, wait - A.I.')
 
@@ -75,4 +74,3 @@ if country := st.session_state.get("country"):
         image_data = base64.b64decode(img.b64_json)
         image = Image.open(BytesIO(image_data))
         st.image(image, caption='Image!', use_column_width=True)
-        
