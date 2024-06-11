@@ -26,25 +26,27 @@ def get_data(size):
 
 st.title('2024 Olympic Country Chooser Tool, Thing, App, wait, wait - A.I.')
 
+manual = st.toggle("Manual Country Selection", False)
 col1, col2 = st.columns([0.7, 0.3])
-with col1:
-    if picked_country := st.selectbox('Pick a Country', [None] + countries, format_func=lambda x: x['country'] if x else None):
-        if (st.session_state.get("country") != picked_country):
+
+if manual:
+    with col1:
+        if picked_country := st.selectbox('Pick a Country', [None] + countries, format_func=lambda x: x['country'] if x else None):
+            if (st.session_state.get("country") != picked_country):
+                st.session_state["country_summary"] = None
+            st.session_state["country"] = picked_country
+else:
+    with col1:
+        size = st.selectbox('Country Size', ['Huuuge', 'Mid Market', 'Everyone loves an underdog'], label_visibility='collapsed')
+
+    countries = get_data(size)
+    with col2:
+        if pick := st.button("I'm feeling lucky!"):
+            country = random.choice(countries)
+            st.session_state["country"] = country
             st.session_state["country_summary"] = None
-        st.session_state["country"] = picked_country
 
-col1, col2 = st.columns([0.7, 0.3])
-with col1:
-    size = st.selectbox('Country Size', ['Huuuge', 'Mid Market', 'Everyone loves an underdog'], label_visibility='collapsed')
-
-countries = get_data(size)
-with col2:
-    if pick := st.button("I'm feeling lucky!"):
-        country = random.choice(countries)
-        st.session_state["country"] = country
-        st.session_state["country_summary"] = None
-
-st.write(f"There are {len(countries)} countries in this category")
+    st.write(f"There are {len(countries)} countries in this category")
 
 chain = create_country_ai()
 
