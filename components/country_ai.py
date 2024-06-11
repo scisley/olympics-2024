@@ -10,7 +10,7 @@ country, you will provide the following information in this markdown format:
 
 * Common phrase: A common saying or phrase from that country that might be heard
   at the Olympics. Provide an explanation if needed.
-* Favorite olympic sport: the sport that the country is most known for and a
+* Favorite summer olympic sport: the sport that the country is most known for and a
   sentence for why it's popular.
 * A popular national drink: A popular national alcholic drink
 * A popular national food: A popular national food is often consumed at sporting

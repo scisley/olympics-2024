@@ -29,6 +29,8 @@ st.title('2024 Olympic Country Chooser Tool, Thing, App, wait, wait - A.I.')
 col1, col2 = st.columns([0.7, 0.3])
 with col1:
     if picked_country := st.selectbox('Pick a Country', [None] + countries, format_func=lambda x: x['country'] if x else None):
+        if (st.session_state.get("country") != picked_country):
+            st.session_state["country_summary"] = None
         st.session_state["country"] = picked_country
 
 col1, col2 = st.columns([0.7, 0.3])
@@ -40,6 +42,7 @@ with col2:
     if pick := st.button("I'm feeling lucky!"):
         country = random.choice(countries)
         st.session_state["country"] = country
+        st.session_state["country_summary"] = None
 
 st.write(f"There are {len(countries)} countries in this category")
 
