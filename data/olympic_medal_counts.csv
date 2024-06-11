@@ -1,0 +1,338 @@
+country,country_code,gold,silver,bronze,total
+United States,USA,1229,1000,876,3105
+Soviet Union,URS,473,376,355,1204
+Germany,GER,384,419,408,1211
+People's Republic of China,CHN,384,281,235,900
+Great Britain,GBR,325,352,359,1036
+France,FRA,312,335,392,1039
+Italy,ITA,299,278,308,885
+Russian Federation,RUS,290,243,246,779
+Sweden,SWE,233,245,262,740
+Japan,JPN,229,220,241,690
+Norway,NOR,221,205,191,617
+Hungary,HUN,210,183,208,601
+East Germany,GDR,192,165,162,519
+Australia,AUS,185,204,247,636
+Republic of Korea,KOR,166,144,137,447
+Netherlands,NED,159,166,187,512
+Canada,CAN,157,197,250,604
+Finland,FIN,155,157,195,507
+Switzerland,SUI,142,146,153,441
+Elis,ELI,117,0,0,117
+Austria,AUT,113,138,161,412
+Cuba,CUB,99,73,87,259
+Romania,ROU,98,107,127,332
+Poland,POL,89,99,158,346
+Sparta,SPA,83,0,0,83
+West Germany,FRG,67,82,94,243
+Bulgaria,BUL,61,96,89,246
+New Zealand,NZL,61,40,59,160
+Ukraine,UKR,60,63,102,225
+Belgium,BEL,55,68,79,202
+Denmark,DEN,54,89,89,232
+Spain,ESP,54,82,72,208
+Unified Team,EUN,54,44,37,135
+Athens,ATH,53,0,0,53
+Mixed team,MIX,52,48,56,156
+Czechoslovakia,TCH,51,58,62,171
+Alexandria,ALX,49,0,0,49
+Greece,GRE,47,63,59,169
+Brazil,BRA,47,55,80,182
+Türkiye,TUR,45,34,55,134
+Kenya,KEN,43,45,40,128
+Rhodes,RHD,38,0,0,38
+Czechia,CZE,36,46,53,135
+Islamic Republic of Iran,IRI,36,28,37,101
+Unknown,UNK,36,0,0,36
+Argentina,ARG,34,36,45,115
+South Africa,RSA,33,39,34,106
+Jamaica,JAM,30,38,27,95
+Ethiopia,ETH,30,20,29,79
+ROC,ROC,28,46,46,120
+Belarus,BLR,26,48,52,126
+Yugoslavia,YUG,26,32,29,87
+Miletus,MIL,26,0,0,26
+Kazakhstan,KAZ,24,31,53,108
+Ephesus,EPH,24,0,0,24
+Kroton,KRT,23,0,0,23
+Messene,MES,23,0,0,23
+Slovenia,SLO,22,27,36,85
+Croatia,CRO,22,22,19,63
+Thailand,THA,21,18,22,61
+Argos,AGS,21,0,0,21
+Siracusa,SIR,21,0,0,21
+Democratic People's Republic of Korea,PRK,20,20,27,67
+Azerbaijan,AZE,19,24,32,75
+Sikyon,SIK,19,0,0,19
+Uzbekistan,UZB,17,16,33,66
+Kyrene,KYR,17,0,0,17
+Magnesia on the Maiandros,MNM,17,0,0,17
+Mexico,MEX,16,33,52,101
+Slovakia,SVK,16,25,16,57
+Megara,MEG,16,0,0,16
+Egypt,EGY,15,15,32,62
+Estonia,EST,15,13,20,48
+Aigion,AIG,15,0,0,15
+Korinth,KTH,14,0,0,14
+India,IND,13,25,20,58
+Lithuania,LTU,13,10,17,40
+Macedonia,MAK,13,0,0,13
+Pellene,PEL,13,0,0,13
+Roma,ROM,13,0,0,13
+Colombia,COL,12,20,21,53
+Ireland,IRL,12,14,19,45
+Thessaly,THL,12,0,0,12
+Georgia,GEO,11,18,22,51
+Epidauros,EDR,11,0,0,11
+Chinese Taipei,TPE,10,18,22,50
+Heraia,HER,10,0,0,10
+Morocco,MAR,9,10,15,34
+Kos,SKS,9,0,0,9
+Lakonia (Akrion),LAK,9,0,0,9
+Philadelphia,PLD,9,0,0,9
+Samos,SMS,9,0,0,9
+Smyrna,SMY,9,0,0,9
+Taranto,TAR,9,0,0,9
+Thebes,THB,9,0,0,9
+Latvia,LAT,8,18,17,43
+Indonesia,INA,8,14,18,40
+The Bahamas,BAH,8,3,8,19
+Antiochia on the Orontes,ATO,8,0,0,8
+Lepreon,LEP,8,0,0,8
+Manteneia,MAN,8,0,0,8
+Salamis,SAL,8,0,0,8
+Thespiai,THP,8,0,0,8
+Xanthos,XAN,8,0,0,8
+Serbia,SRB,7,11,15,33
+Israel,ISR,7,5,11,23
+Khios,KHI,7,0,0,7
+Korkyra,KKY,7,0,0,7
+Kyzikos,KYZ,7,0,0,7
+Larisa,LAR,7,0,0,7
+Mainalos,MAI,7,0,0,7
+Nigeria,NGR,6,14,15,35
+Portugal,POR,6,13,16,35
+Tunisia,TUN,6,5,9,20
+Himera,HIM,6,0,0,6
+Sardis,SAR,6,0,0,6
+Seleukeia on the Tigris,SLT,6,0,0,6
+Unknown city in Crete,KRE,6,0,0,6
+Unknown city in Lokria,LOK,6,0,0,6
+Venezuela,VEN,5,15,14,34
+Armenia,ARM,5,11,15,31
+Algeria,ALG,5,9,8,22
+Dominican Republic,DOM,5,6,6,17
+Vietnam,VIE,5,6,3,14
+Uganda,UGA,5,5,5,15
+Akragas,AKR,5,0,0,5
+Ambrakia,AMB,5,0,0,5
+Bithynia (Nikaia),BTN,5,0,0,5
+Pharsalos,PHA,5,0,0,5
+Phoenicia,PHN,5,0,0,5
+Sinope,SIN,5,0,0,5
+Thourioi,THR,5,0,0,5
+Mongolia,MGL,4,14,18,36
+Trinidad and Tobago,TTO,4,6,12,22
+Ecuador,ECU,4,5,2,11
+Qatar,QAT,4,3,4,11
+Kleitor,KLT,4,0,0,4
+Lindos,LIN,4,0,0,4
+Mytilene,MTL,4,0,0,4
+Naxos,NAX,4,0,0,4
+Opous,OPS,4,0,0,4
+Pergamon,PGM,4,0,0,4
+Phigaleia,PGL,4,0,0,4
+Sidon,SID,4,0,0,4
+Syria (Antocheia),SRA,4,0,0,4
+Tralles,TRA,4,0,0,4
+Chile,CHI,3,7,4,14
+Singapore,SGP,3,5,6,14
+Luxembourg,LUX,3,5,0,8
+Republic of Moldova,MDA,3,4,6,13
+Australasia,ANZ,3,4,5,12
+Pakistan,PAK,3,4,5,12
+Zimbabwe,ZIM,3,4,1,8
+Puerto Rico,PUR,3,3,8,14
+Uruguay,URU,3,2,6,11
+Cameroon,CMR,3,1,2,6
+Kosovo,KOS,3,0,1,4
+Erythrai,ERY,3,0,0,3
+Hermopolis,HMP,3,0,0,3
+Kamarina,KMN,3,0,0,3
+Keramos,KER,3,0,0,3
+Kolophon,KOL,3,0,0,3
+Krannon,KRN,3,0,0,3
+Laodikeia on the Lykos,LDL,3,0,0,3
+Patrai,PAT,3,0,0,3
+Stratonikeia,STR,3,0,0,3
+Tegea,TEG,3,0,0,3
+Thyateira,THY,3,0,0,3
+Malaysia,MAS,2,11,6,19
+"Hong Kong, China",HKG,2,9,6,17
+Serbia and Montenegro,SCG,2,4,3,9
+Peru,PER,2,3,2,7
+Bahrain,BRN,2,3,1,6
+Liechtenstein,LIE,2,2,7,11
+Burundi,BDI,2,2,0,4
+Fiji,FIJ,2,0,2,4
+Suriname,SUR,2,0,1,3
+Adana,ADA,2,0,0,2
+Aigeira,AGR,2,0,0,2
+Aitolia,AIT,2,0,0,2
+Andros,ANS,2,0,0,2
+Anthedon,ATD,2,0,0,2
+Apamea-Myrleia,APM,2,0,0,2
+Aphrodisias,APH,2,0,0,2
+Daldis,DLD,2,0,0,2
+Delphi,DLP,2,0,0,2
+Dymai,DYM,2,0,0,2
+Elateia,ELA,2,0,0,2
+Epidamnos,EDM,2,0,0,2
+Gela,GEL,2,0,0,2
+Halicarnassus,HAL,2,0,0,2
+Hyblaia,HYB,2,0,0,2
+Khalkis,KHA,2,0,0,2
+Methydria,MTH,2,0,0,2
+Parrhasia,PRH,2,0,0,2
+Poseidonia,POS,2,0,0,2
+Stymphalia,STY,2,0,0,2
+Sybaris,SYB,2,0,0,2
+Tanagra,TNG,2,0,0,2
+Tarsos,TRS,2,0,0,2
+Tenedos,TND,2,0,0,2
+Thasos,THS,2,0,0,2
+Troy,TRO,2,0,0,2
+Tyana,TYA,2,0,0,2
+Unknown city in Arkadia,ARK,2,0,0,2
+Unknown city in Boeotia,BOE,2,0,0,2
+Unknown city in Egypt,EGP,2,0,0,2
+Philippines,PHI,1,6,8,15
+Kyrgyzstan,KGZ,1,6,7,14
+Kingdom of Saudi Arabia,KSA,1,2,5,8
+Iceland,ISL,1,2,3,6
+Jordan,JOR,1,2,3,6
+Tajikistan,TJK,1,2,3,6
+Zambia,ZAM,1,2,2,5
+Ghana,GHA,1,1,4,6
+Independent Olympic Athletes,IOA,1,1,3,5
+Costa Rica,CRC,1,1,2,4
+Côte d'Ivoire,CIV,1,1,2,4
+Grenada,GRN,1,1,2,4
+Syrian Arab Republic,SYR,1,1,2,4
+United Arab Emirates,UAE,1,1,1,3
+United States Virgin Islands,ISV,1,1,0,2
+Eritrea,ERI,1,0,3,4
+Panama,PAN,1,0,2,3
+Bermuda,BER,1,0,1,2
+Mauritius,MRI,1,0,1,2
+Mozambique,MOZ,1,0,1,2
+Adai,AAI,1,0,0,1
+Adramyttion,ADR,1,0,0,1
+Aizanoi,AIZ,1,0,0,1
+Akarnan,AKA,1,0,0,1
+Amphipolis,APP,1,0,0,1
+Amphissa,AMP,1,0,0,1
+Anemurium,ANM,1,0,0,1
+Antikyra,ATK,1,0,0,1
+Antissa,ATS,1,0,0,1
+Apollonia,APL,1,0,0,1
+Armenia,AMN,1,0,0,1
+Aspendos,APD,1,0,0,1
+Assos,ASO,1,0,0,1
+Astypalaia,ATP,1,0,0,1
+Atiolia,ATI,1,0,0,1
+Attaleia,ATT,1,0,0,1
+Augusta Traiana,ATR,1,0,0,1
+Bargylia,BRG,1,0,0,1
+Barke,BRK,1,0,0,1
+Bithynia (Prousa),BTP,1,0,0,1
+Bolivia,BOL,1,0,0,1
+Delos,DEL,1,0,0,1
+Dipaia,DIP,1,0,0,1
+Dyspontion,DYS,1,0,0,1
+Epeiros,EPE,1,0,0,1
+Gortyn,GOR,1,0,0,1
+Hermione,HMN,1,0,0,1
+Hierapolis,HRP,1,0,0,1
+Hypaipa,HYP,1,0,0,1
+Iasos,IAS,1,0,0,1
+Kamiros,KMR,1,0,0,1
+Kappadokia,KPD,1,0,0,1
+Karian,KAR,1,0,0,1
+Karystos,KRS,1,0,0,1
+Kelonai,KEL,1,0,0,1
+Klazomenai,KZM,1,0,0,1
+Kleonai,KLN,1,0,0,1
+Kydonia,KYD,1,0,0,1
+Kyme,KYM,1,0,0,1
+Kyparissia,KPS,1,0,0,1
+Kypro,KYP,1,0,0,1
+Maroneia,MRN,1,0,0,1
+Megalopolis,MGP,1,0,0,1
+Melos,MEL,1,0,0,1
+Mylasa,MYL,1,0,0,1
+Myra,MYR,1,0,0,1
+Naukratis,NKT,1,0,0,1
+Neapolis,NEA,1,0,0,1
+Nysa,NYS,1,0,0,1
+Oinoanda,OIN,1,0,0,1
+Orestheia,ORS,1,0,0,1
+Orkhomenos,ORK,1,0,0,1
+Oxyrhynchos,OXY,1,0,0,1
+Peparethos,PEP,1,0,0,1
+Pessinous,PES,1,0,0,1
+Petra,PET,1,0,0,1
+Philippoi,PHP,1,0,0,1
+Pisa,PSA,1,0,0,1
+Skotoussa,SKO,1,0,0,1
+Tauromenion,TMN,1,0,0,1
+Telmessos,TEL,1,0,0,1
+Tenos,TNS,1,0,0,1
+Terina,TER,1,0,0,1
+Thelphoussa,TPH,1,0,0,1
+Tiryns,TIR,1,0,0,1
+Tlos,TLO,1,0,0,1
+Tritaia,TRT,1,0,0,1
+Troizen,TRZ,1,0,0,1
+Unknown city in Asia,ASI,1,0,0,1
+Zakynthos,ZAK,1,0,0,1
+Namibia,NAM,0,5,0,5
+Botswana,BOT,0,3,1,4
+Cyprus,CYP,0,3,0,3
+Lebanon,LBN,0,2,3,5
+Haiti,HAI,0,2,1,3
+Sri Lanka,SRI,0,2,1,3
+United Republic of Tanzania,TAN,0,2,0,2
+Bohemia,BOH,0,1,5,6
+Niger,NIG,0,1,2,3
+North Macedonia,MKD,0,1,2,3
+San Marino,SMR,0,1,2,3
+Bosnia and Herzegovina,BIH,0,1,1,2
+Guatemala,GUA,0,1,1,2
+Netherlands Antilles,AHO,0,1,1,2
+Turkmenistan,TKM,0,1,1,2
+United Arab Republic,UAR,0,1,1,2
+El Salvador,ESA,0,1,0,1
+Equatorial Guinea,GEQ,0,1,0,1
+Gabon,GAB,0,1,0,1
+Montenegro,MNE,0,1,0,1
+Nauru,NRU,0,1,0,1
+Paraguay,PAR,0,1,0,1
+Saint Lucia,LCA,0,1,0,1
+Samoa,SAM,0,1,0,1
+Senegal,SEN,0,1,0,1
+Sudan,SUD,0,1,0,1
+Tonga,TGA,0,1,0,1
+Kuwait,KUW,0,0,4,4
+Afghanistan,AFG,0,0,3,3
+Djibouti,DJI,0,0,2,2
+Iraq,IRQ,0,0,2,2
+Monaco,MON,0,0,2,2
+West Indies Federation,WIF,0,0,2,2
+Andorra,AND,0,0,1,1
+Barbados,BAR,0,0,1,1
+Burkina Faso,BUR,0,0,1,1
+Cambodia,CAM,0,0,1,1
+Guyana,GUY,0,0,1,1
+Honduras,HON,0,0,1,1
+Togo,TOG,0,0,1,1
